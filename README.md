@@ -4,3 +4,5 @@ patches i use:
 + centered window name
 + no border
 + vanity gaps
+
+https://dwm.suckless.org/
